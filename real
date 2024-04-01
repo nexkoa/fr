@@ -1,6 +1,6 @@
 --!native
 local Params = {
-	RepoURL = "https://raw.githubusercontent.com/nexkoa/fr/main/real",
+	RepoURL = "https://raw.githubusercontent.com/nexkoa/fr/main/",
 	UMF = "UniversalMethodFinder",
 	ROM = "RequireOnlineModule",
 }
