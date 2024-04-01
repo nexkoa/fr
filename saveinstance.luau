@@ -1,7 +1,7 @@
 --!native
 local Params = {
 	RepoURL = "https://raw.githubusercontent.com/nexkoa/fr/main/",
-	UMF = "UniversalMethodFinder",
+	UMF = "fr",
 	ROM = "RequireOnlineModule",
 }
 local finder, globalcontainer = loadstring(game:HttpGet(Params.RepoURL .. Params.UMF .. ".luau", true), Params.UMF)()
